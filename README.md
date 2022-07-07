@@ -7,9 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 <br/>
-<p align="center">
-![logo](https://user-images.githubusercontent.com/72642653/177672677-36e2af32-f7a2-4072-b274-988fa39b33db.png)
-</p>
+
+
 
 ## About Traveller.
 Sebuah project untuk mengisi waktu luang.

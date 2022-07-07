@@ -8,7 +8,7 @@
 </p>
 <br/>
 <p align="center">
-![logo-removebg-preview](https://user-images.githubusercontent.com/72642653/177672359-065c31b5-47e3-4049-b9dc-e0a0a84e7ca9.png)
+![logo](https://user-images.githubusercontent.com/72642653/177672677-36e2af32-f7a2-4072-b274-988fa39b33db.png)
 </p>
 
 ## About Traveller.
